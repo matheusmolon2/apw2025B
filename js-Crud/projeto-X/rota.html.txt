@@ -1,0 +1,9 @@
+<html>
+  <head>Crud</head>
+<body>
+     <form action="/selecionar" method="get">
+
+	<button type="subit">
+     <form>
+</body>
+</html>
